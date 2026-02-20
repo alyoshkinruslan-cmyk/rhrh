@@ -12,7 +12,7 @@
 print('ilan') #выводит на экран ilan 
 ``` 
 ## *Результат*
-  ![result] (lab0.png)
+![result] (lab0.jpg)
 ## *Список используемых материалов:*
 - [справка по markdawn](https://doka.guide/tools/markdown/)
 - [пример отчёта](https://github.com/still-coding/report_demo)
