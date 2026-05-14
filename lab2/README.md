@@ -10,6 +10,7 @@
 1. Создать виртуальное окружение, установить `matplotlib` и `numpy`, создать `requirements.txt`.
 2. Выполнить уроки 1–3 из книги «Библиотека Matplotlib» (Devpractice Team).
 3. Выбрать одну из неразрывных функций своего варианта, построить график этой функции и касательную к ней. Добавить на график заголовок, подписи осей, легенду, сетку, а также аннотацию к точке касания.
+![graphic](<lab2/variant1_plot.png>)
 4. Добавить в корень репозитория файл `.gitignore`.
 5. Оформить отчёт в `README.md`.
 
@@ -29,4 +30,3 @@ pip install -U pip
 pip install matplotlib numpy
 pip freeze &gt; requirements.txt
 
-![graphic](<lab2/variant1_plot.png>)
